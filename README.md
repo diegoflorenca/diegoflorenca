@@ -2,7 +2,7 @@
 
 I am a Web Developer focused on Front-End, with Bachelor`s degree in Digital Design. Moreover, I was an entrepreneur and teacher in Brazil for ten years, working with design, web and technology. Furthermore, I am a detail-oriented individual with excellent organizational and problem-solving skills.
 
-- 🔭 I’m currently looking for work as a front-end developer
+- 🔭 I’m currently looking for job as a front-end developer
 - 🚀 I’m currently learning React, Next and TypeScript
 - 😁 Pronouns: He/Him
 
@@ -17,8 +17,9 @@ I am a Web Developer focused on Front-End, with Bachelor`s degree in Digital Des
   <a href = "mailto:diegoflorenca+github@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="http://www.discordapp.com/users/516404623368650802" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="https://instagram.com/diegoflorenca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-<br>
+  <img height="120" src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairBun&accessoriesType=Blank&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=Hoodie&clotheColor=Gray01&eyeType=Happy&eyebrowType=Default&mouthType=Smile&skinColor=Light'
+  />
+</div><br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoflorenca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoflorenca&layout=compact&langs_count=7&theme=dracula"/>
