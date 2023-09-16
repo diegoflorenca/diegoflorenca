@@ -4,7 +4,6 @@ Over the course of ten years, I gained extensive experience in design, web devel
 
 - 🔭 I've been working as a front-end developer at <a href="http://www.panevo.com" target="_blank">Panevo</a>
 - 🚀 I’m currently learning React, Next and TypeScript
-- 😁 Pronouns: He/Him
 
 #### ⚡Fun facts
 
