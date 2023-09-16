@@ -1,9 +1,20 @@
 ### 👋 Hi, I am Diego Felipe Florença! (He/Him)
 
-Over the course of ten years, I gained extensive experience in design, web development, and technology as an entrepreneur, web developer, and teacher in Brazil. My Bachelor's degree in Digital Design and specialization in Front-End Web Development has provided me with the skills and knowledge necessary to excel in my field. Additionally, my exceptional organizational and problem-solving skills, along with my attention to detail, make me a valuable asset to any team.
+🚀 Entrepreneur, Web Developer, and Educator 🇧🇷
 
-- 🔭 I've been working as a front-end developer at <a href="http://www.panevo.com" target="_blank">Panevo</a>
-- 🚀 I’m currently learning React, Next and TypeScript
+🎓 Bachelor's in Digital Design | 🌐 Front-End Web Development Specialist
+
+🔍 10+ years of experience in the world of design, web development, and technology
+
+💼 Bringing a unique blend of creativity and technical prowess to every project
+
+💡 Passionate about problem-solving and obsessed with the details
+
+👨‍💻 Ready to collaborate and contribute to innovative tech projects
+
+📚 Lifelong learner committed to staying at the forefront of the digital landscape
+
+Let's build the future together, one code at a time! 🚀
 
 #### ⚡Fun facts
 
