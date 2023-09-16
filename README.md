@@ -1,8 +1,8 @@
 ### 👋 Hi, I am Diego Felipe Florença! (He/Him)
 
-I am a Web Developer focused on Front-End, with Bachelor`s degree in Digital Design. Moreover, I was an entrepreneur and teacher in Brazil for ten years, working with design, web and technology. Furthermore, I am a detail-oriented individual with excellent organizational and problem-solving skills.
+Over the course of ten years, I gained extensive experience in design, web development, and technology as an entrepreneur, web developer, and teacher in Brazil. My Bachelor's degree in Digital Design and specialization in Front-End Web Development has provided me with the skills and knowledge necessary to excel in my field. Additionally, my exceptional organizational and problem-solving skills, along with my attention to detail, make me a valuable asset to any team.
 
-- 🔭 I’m currently looking for job as a front-end developer
+- 🔭 I've been working as a front-end developer at <a href="http://www.panevo.com" target="_blank">Panevo</a>
 - 🚀 I’m currently learning React, Next and TypeScript
 - 😁 Pronouns: He/Him
 
@@ -10,7 +10,7 @@ I am a Web Developer focused on Front-End, with Bachelor`s degree in Digital Des
 
 - Likes running and cycling
 - Loves to play video games
-- Has the dream of travelling the whole world
+- Has the dream of traveling the whole world
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/diegoflorenca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -43,6 +43,7 @@ I am a Web Developer focused on Front-End, with Bachelor`s degree in Digital Des
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Diego-react" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Diego-vue" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
     <img align="center" alt="Diego-next" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="Diego-flask" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
     <img align="center" alt="Diego-node" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -51,7 +52,7 @@ I am a Web Developer focused on Front-End, with Bachelor`s degree in Digital Des
     <img align="center" alt="Diego-wordpress" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   </div>
 
-### Softwares and Services
+### Software and Services
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Diego-vscode" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
